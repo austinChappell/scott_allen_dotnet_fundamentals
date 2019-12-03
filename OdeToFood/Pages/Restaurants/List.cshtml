@@ -27,8 +27,11 @@
             <td>@restaurant.Location</td>
             <td>@restaurant.Cuisine</td>
             <td>
-                <a class="btn btn-lg" asp-page="./Details" asp-route-restaurantId="@restaurant.Id">
-                    Zoom In
+                <a class="btn" asp-page="./Details" asp-route-restaurantId="@restaurant.Id">
+                    View
+                </a>
+                <a class="btn" asp-page="./Edit" asp-route-restaurantId="@restaurant.Id">
+                    Edit
                 </a>
             </td>
         </tr>

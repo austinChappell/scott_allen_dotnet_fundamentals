@@ -14354,6 +14354,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood/Pages/Restaurants/Edit.cshtml",
+      "TargetPath": "Pages/Restaurants/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood/Pages/Restaurants/NotFound.cshtml",
       "TargetPath": "Pages/Restaurants/NotFound.cshtml",
       "FileKind": "mvc"

@@ -113,3 +113,4 @@
 /Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood/bin/Debug/netcoreapp3.0/OdeToFood.Core.pdb
 /Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood/obj/Debug/netcoreapp3.0/Razor/Pages/Restaurants/Details.cshtml.g.cs
 /Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood/obj/Debug/netcoreapp3.0/Razor/Pages/Restaurants/NotFound.cshtml.g.cs
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood/obj/Debug/netcoreapp3.0/Razor/Pages/Restaurants/Edit.cshtml.g.cs
