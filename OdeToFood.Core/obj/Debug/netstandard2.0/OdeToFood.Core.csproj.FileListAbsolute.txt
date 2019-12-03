@@ -1,0 +1,8 @@
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Core/bin/Debug/netstandard2.0/OdeToFood.Core.deps.json
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Core/bin/Debug/netstandard2.0/OdeToFood.Core.dll
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Core/bin/Debug/netstandard2.0/OdeToFood.Core.pdb
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Core/obj/Debug/netstandard2.0/OdeToFood.Core.csprojAssemblyReference.cache
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Core/obj/Debug/netstandard2.0/OdeToFood.Core.AssemblyInfoInputs.cache
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Core/obj/Debug/netstandard2.0/OdeToFood.Core.AssemblyInfo.cs
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Core/obj/Debug/netstandard2.0/OdeToFood.Core.dll
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Core/obj/Debug/netstandard2.0/OdeToFood.Core.pdb
