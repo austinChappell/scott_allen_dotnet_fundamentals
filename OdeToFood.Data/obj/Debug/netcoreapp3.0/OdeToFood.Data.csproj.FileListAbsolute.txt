@@ -1,0 +1,13 @@
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Data/bin/Debug/netcoreapp3.0/OdeToFood.Data.deps.json
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Data/bin/Debug/netcoreapp3.0/OdeToFood.Data.runtimeconfig.json
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Data/bin/Debug/netcoreapp3.0/OdeToFood.Data.runtimeconfig.dev.json
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Data/bin/Debug/netcoreapp3.0/OdeToFood.Data.dll
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Data/bin/Debug/netcoreapp3.0/OdeToFood.Data.pdb
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Data/bin/Debug/netcoreapp3.0/OdeToFood.Core.dll
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Data/bin/Debug/netcoreapp3.0/OdeToFood.Core.pdb
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Data/obj/Debug/netcoreapp3.0/OdeToFood.Data.csprojAssemblyReference.cache
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Data/obj/Debug/netcoreapp3.0/OdeToFood.Data.AssemblyInfoInputs.cache
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Data/obj/Debug/netcoreapp3.0/OdeToFood.Data.AssemblyInfo.cs
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Data/obj/Debug/netcoreapp3.0/OdeToFood.Data.csproj.CopyComplete
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Data/obj/Debug/netcoreapp3.0/OdeToFood.Data.dll
+/Users/austinchappell/Documents/dev/pluralsight/scott_allen/dotnet_fundamentals/OdeToFood.Data/obj/Debug/netcoreapp3.0/OdeToFood.Data.pdb
